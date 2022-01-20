@@ -4,7 +4,6 @@
 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Deopoler/competition/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Deopoler/notebook/light)
 
 
 
