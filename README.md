@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deopoler
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Image to Image Translation
+- 🌱 I’m currently learning Audio Classification
 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Deopoler/competition/light)
